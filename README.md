@@ -27,7 +27,7 @@
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| **Languages** | Python, Java, C, SQL, R |
+| **Languages** | Python, Java, C, R |
 | **Web Development** | HTML, CSS, JavaScript, PHP |
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
 | **Databases** | MySQL, MS SQL |

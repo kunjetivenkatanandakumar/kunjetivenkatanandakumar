@@ -30,8 +30,8 @@
 | **Languages** | Python, Java, C, SQL, R |
 | **Web Development** | HTML, CSS, JavaScript, PHP |
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
-| **Databases** | MySQL, SQLite |
-| **Tools** | Jupyter Notebook, VS Code, Eclipse |
+| **Databases** | MySQL, MS SQL |
+| **Tools** | Excel(Advanced), Power BI, Jupyter Notebook, VS Code, Eclipse |
 
 ---
 
@@ -106,10 +106,6 @@
 ---
 
 ⭐ _“Turning data into insight and ideas into solutions.”_  
-
-https://github-readme-stats.vercel.app/api?username=kunjetivenkatanandakumar
-https://github-readme-streak-stats.herokuapp.com/?user=kunjetivenkatanandakumar
-https://github-readme-stats.vercel.app/api/top-langs/?username=kunjetivenkatanandakumar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kunjetivenkatanandakumar&color=blue)
 ![Followers](https://img.shields.io/github/followers/kunjetivenkatanandakumar?label=Followers)

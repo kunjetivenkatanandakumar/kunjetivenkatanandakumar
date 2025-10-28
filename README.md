@@ -82,15 +82,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunjetivenkatanandakumar&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjetivenkatanandakumar&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ### 🧭 My GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunjetivenkatanandakumar&theme=radical" alt="GitHub Streak"/>

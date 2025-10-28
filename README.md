@@ -106,3 +106,17 @@
 ---
 
 ⭐ _“Turning data into insight and ideas into solutions.”_  
+
+https://github-readme-stats.vercel.app/api?username=kunjetivenkatanandakumar
+https://github-readme-streak-stats.herokuapp.com/?user=kunjetivenkatanandakumar
+https://github-readme-stats.vercel.app/api/top-langs/?username=kunjetivenkatanandakumar
+
+![Profile Views](https://komarev.com/ghpvc/?username=kunjetivenkatanandakumar&color=blue)
+![Followers](https://img.shields.io/github/followers/kunjetivenkatanandakumar?label=Followers)
+![Stars](https://img.shields.io/github/stars/kunjetivenkatanandakumar?label=Stars)
+
+
+
+
+
+

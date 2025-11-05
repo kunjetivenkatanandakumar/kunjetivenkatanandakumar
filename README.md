@@ -1,13 +1,11 @@
 <!-- Profile README for Kunjeti Venkata Nanda Kumar -->
 
 <h1 align="center">👋 Hi, I'm Kunjeti Venkata Nanda Kumar</h1>
-<h3 align="center">🚀 Data Science | Machine Learning | Full Stack Development</h3>
-
 ---
 
 ### 💫 About Me  
 🎯 Passionate about **Data Science and Full Stack Web Development** with strong skills in **Python, SQL, and Java**.  
-🎓 Currently pursuing **MCA at Annamacharya Institute of Technology & Sciences (2023–2025)**.  
+🎓 I Completed my **MCA at Annamacharya Institute of Technology & Sciences (2023–2025)**.  
 💡 I enjoy turning **data into insights** and building **web solutions** that solve real-world problems.  
 🌱 Currently learning **Deep Learning and Cloud Deployment**.  
 📫 Reach me at: [kunjatinanda@gmail.com](mailto:kunjatinanda@gmail.com)

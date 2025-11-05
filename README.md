@@ -1,7 +1,6 @@
 <!-- Profile README for Kunjeti Venkata Nanda Kumar -->
 
 <h1 align="center">👋 Hi, I'm Kunjeti Venkata Nanda Kumar</h1>
----
 
 ### 💫 About Me  
 🎯 Passionate about **Data Science and Full Stack Web Development** with strong skills in **Python, SQL, and Java**.  

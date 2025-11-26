@@ -32,43 +32,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧩 [Employee Promotion Classification](https://github.com/kunjetivenkatanandakumar/employee-promotion-classification)
-- Machine learning model to predict employee promotion eligibility.  
-- Implemented preprocessing, classification algorithms, and feature engineering.  
-- Built with **Python, Pandas, Scikit-learn**.
-
-#### 🛍️ [Fashion Web Store](https://github.com/kunjetivenkatanandakumar/project)
-- Responsive fashion e-commerce platform.  
-- Includes **user authentication, product catalog, and shopping cart**.  
-- Built using **HTML, CSS, JavaScript**, and backend technologies.
-
-#### 💻 [E-Commerce Web Store](https://github.com/kunjetivenkatanandakumar/pro)
-- End-to-end shopping platform with **payment and inventory management**.  
-- Focused on **responsive design and UX**.  
-- Tech Stack: HTML, CSS, JS, PHP.
-
----
-
-### 🧩 Internship Experience
-
-**Data Science / ML Intern – ExcelR**  
-- Applied ML algorithms to real-world data.  
-- Conducted **EDA, feature engineering**, and **predictive modeling**.
-
-**Full Stack Python Developer Intern – Employment Express**  
-- Built **Python-based web applications** with **database integration**.  
-- Designed and implemented **REST APIs**.
-
-**Web Development Intern – Microsoft**  
-- Created **responsive web interfaces** and participated in code reviews.
-
-**Drone Pilot Intern – APSSDC**  
-- Trained in **drone piloting, safety protocols**, and **aerial operations**.
-
----
-
 ### 🏆 Certifications
 
 - E-Business Certification (NPTEL)  

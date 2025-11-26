@@ -4,7 +4,7 @@
 
 ### 💫 About Me  
 🎯 Passionate about **Data Science and Full Stack Web Development** with strong skills in **Python, SQL, and Java**.  
-🎓 I Completed my **MCA at Annamacharya Institute of Technology & Sciences (2023–2025)**.  
+🎓 I Completed my **BSc at Loyola Degree College (2020–2023)**.  
 💡 I enjoy turning **data into insights** and building **web solutions** that solve real-world problems.  
 🌱 Currently learning **Deep Learning and Cloud Deployment**.  
 📫 Reach me at: [kunjatinanda@gmail.com](mailto:kunjatinanda@gmail.com)

@@ -24,8 +24,8 @@
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| **Languages** | Python, Java, C, R |
-| **Web Development** | HTML, CSS, JavaScript, PHP |
+| **Languages** | Python, Java |
+| **Web Development** | HTML, CSS |
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
 | **Databases** | MySQL, MS SQL |
 | **Tools** | Excel(Advanced), Power BI, Jupyter Notebook, VS Code, Eclipse |
